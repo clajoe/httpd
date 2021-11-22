@@ -1,6 +1,8 @@
 #!/bin/bash
 set -eu
 
+# Testing for change
+
 declare -A aliases=(
 	[2.4]='2 latest'
 )
